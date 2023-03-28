@@ -1,0 +1,2 @@
+# csv data ... msg doesn't go to all mails.
+# add a section in ui to add more birthdays.
