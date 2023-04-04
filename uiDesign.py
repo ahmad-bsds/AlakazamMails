@@ -5,8 +5,8 @@ from mailSendSystem import send_mail
 
 # -------- User credentials.---------
 # user email.
-EMAIL = 'newera0176@gmail.com'
-PASSWORD = 'ejtucwcokpcmzlwf'
+EMAIL = 'Your_email_here'
+PASSWORD = 'Your_password_here'
 
 # create the main window.
 window = tk.Tk()
