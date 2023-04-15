@@ -11,7 +11,7 @@ today_date = (12, 28)
 data = pd.read_csv('birthdays.csv')
 # Getting most resent birthday.
 birthday_dict = {(row['Month'], row['Day']): row for (index, row) in data.iterrows()}  # check iter rows not items.
-
+print(birthday_dict)
 
 # we used index, or we might write _ for just unpack.
 # /HERE KEY DIFFERENT BECAUSE WE CANT UNPACK IT SO MAKE IT A KEY.
